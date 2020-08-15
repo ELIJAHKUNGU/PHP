@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+<h1 id="header">The Heading of the Dom</h1>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+    Aliquid amet architecto, aspernatur deserunt excepturi exercitationem illum it
+    aque minus molestias nam nesciunt omnis praesentium provident rem, repellendus
+    veniam voluptatibus! Architecto, cum.</p>
+
+
+</body>
+</html>
+<script>
+
+    /*
+Random  Color Changer*/
+    var header = document.querySelector("#header");
+    function getRandomColor() {
+        var letters = "0123456789ABCDEF";
+        var color = "#";
+        for (var i = 0; i< 6; i++){
+            color += letters[math.floor(math.random()*16)];
+        }
+        return color
+
+    }
+    function changeHeadColor() {
+        colorInput = getRandomColor();
+        header.style.color = colorInput
+    }
+    //Now perform the action over intervals(mileseconds)
+    setInterval("changeHeadColor()",500);
+
+
+</script>

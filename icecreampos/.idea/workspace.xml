@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c61d597-a0d7-4417-bfc3-1073b5b3aa35" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a73uS7onyGSLCbU7Zhl62o3fzI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\icecreampos\js" />
+      <recent name="C:\xampp\htdocs\icecreampos" />
+      <recent name="C:\xampp\htdocs\icecreampos\images" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c61d597-a0d7-4417-bfc3-1073b5b3aa35" name="Default Changelist" comment="" />
+      <created>1586073026915</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586073026915</updated>
+      <workItem from="1586073028388" duration="3122000" />
+      <workItem from="1586078512997" duration="3816000" />
+      <workItem from="1586098182269" duration="6218000" />
+      <workItem from="1586111350543" duration="4257000" />
+      <workItem from="1586250556965" duration="483000" />
+      <workItem from="1587382456950" duration="143000" />
+      <workItem from="1587408686763" duration="342000" />
+      <workItem from="1587410727283" duration="601000" />
+      <workItem from="1587458484925" duration="5723000" />
+      <workItem from="1587467279910" duration="536000" />
+      <workItem from="1587469366297" duration="922000" />
+      <workItem from="1587476940992" duration="3846000" />
+      <workItem from="1587542420876" duration="8326000" />
+      <workItem from="1587631612705" duration="903000" />
+      <workItem from="1587645660138" duration="51000" />
+      <workItem from="1588918732188" duration="2629000" />
+      <workItem from="1588928126570" duration="265000" />
+      <workItem from="1590340204915" duration="203000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="634" y="369" key="NewPhpFileDialog" timestamp="1588928221326">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="634" y="353" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1587631663003" />
+    <state x="634" y="369" key="NewPhpFileDialog/0.0.1600.900@0.0.1600.900" timestamp="1588928221326" />
+    <state x="654" y="228" key="com.intellij.ide.util.TipDialog" timestamp="1587645667702">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="654" y="228" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1587645667702" />
+    <state x="456" y="195" key="run.anything.popup" timestamp="1587549196001">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="456" y="195" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1587549196001" />
+  </component>
+</project>
